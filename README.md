@@ -3,7 +3,7 @@ Inventory System
 
 Used to develop: Laravel, Composer, Git Bash, Xampp, VSCode, Bootstrap, Browser
 
-HOW TO RUN EMPLOYEE MANAGEMENT SYSTEM:
+HOW TO RUN INVENTORY SYSTEM:
 
 - Clone the system from github by typing "git clone -b master --single-branch https://github.com/danielleoclarit12345/Inventory-System.git" in git bash
 - Make sure to place the cloned system inside C:\xampp\htdocs
