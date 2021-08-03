@@ -4,29 +4,29 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
         
-          "authors": [
-                {
-                    "name": "Danielle Oclarit",
-                    "email": "daniellealbesaoclarit@gmail.com"
-                },
-                {
-                    "name": "Paolo Olais",
-                    "email": "ragtime.pao@gmail.com"
-                },
-                {
-                    "name": "Honey Grace Nalimot",
-                    "email": "hnalimot@gmail.com"
-                },
-                {
-                    "name": "John Dave Nacorda",
-                    "email": "johndavenacorda88@gmail.com"
-                },
-                {
-                    "name": "Shenna Mae Polancos",
-                    "email": "polancos.shenna@gmail.com"
-                }
+         
+      
+      
+     
+  
+     
+     
+  
+
+ 
+     
+
+
+
+
+                  
+
+
+
+  
+
             ],
-    ],
+
     "content-hash": "445b2b56036f4fb3c253035674db75e4",
     "packages": [
         {
