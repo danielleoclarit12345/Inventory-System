@@ -7,7 +7,22 @@ HOW TO RUN INVENTORY SYSTEM:
 
 - Clone the system from github by typing "git clone -b master --single-branch https://github.com/danielleoclarit12345/Inventory-System.git" in git bash
 - Make sure to place the cloned system inside C:\xampp\htdocs
-- Open MySQL Admin in the browser and create a database named "inventory"
+- Run the XAMPP control panel and start MySQL and Apache
+- Open the browser and go to http://localhost/phpmyadmin/ to create the database
+- Click the new to create a database.
+- Name the database "inventory".
+- Click import to import the inventory.sql file.
+- Click choose file and select the file that can be found inside the Inventory-System folder.
+- Click go
+
+
+
+
+
+
+
+
+
 - Open vscode then open the Inventory-System folder
 - Type in the vscode terminal: composer install php artisan key:generate php artisan migrate php artisan serve
 - Open browser then copy paste this link http://localhost:8000/login
