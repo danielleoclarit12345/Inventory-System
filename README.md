@@ -25,7 +25,7 @@ HOW TO RUN INVENTORY SYSTEM:
 
 - Open vscode then open the Inventory-System folder
 - Type in the vscode terminal: composer install php artisan key:generate php artisan migrate php artisan serve
-- Open browser then copy paste this link http://localhost:8000/login
+- Open browser then copy paste this link http://localhost:8000
 
 Created this system :
 
