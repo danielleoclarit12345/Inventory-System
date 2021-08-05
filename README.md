@@ -14,18 +14,13 @@ HOW TO RUN INVENTORY SYSTEM:
 - Click import to import the inventory.sql file.
 - Click choose file and select the file that can be found inside the Inventory-System folder.
 - Click go
-
-
-
-
-
-
-
-
-
 - Open vscode then open the Inventory-System folder
-- Type in the vscode terminal: composer install php artisan key:generate php artisan migrate php artisan serve
-- Open browser then copy paste this link http://localhost:8000
+- Type in the vscode terminal and run this commands:- composer install
+                                                    - copy .env.example .env
+                                                    - php artisan key:generate
+                                                    - php artisan migrate
+                                                    - php artisan serve
+- Open browser then copy and paste this link http://localhost:8000
 
 Created this system :
 
